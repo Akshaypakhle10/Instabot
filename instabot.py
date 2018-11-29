@@ -5,7 +5,7 @@ from textblob.sentiments import NaiveBayesAnalyzer
 
 import nltk
 
-APP_ACCESS_TOKEN ='611911121.e9aa134.31c723b454e04d88ae13531a75c88276'
+APP_ACCESS_TOKEN ='ENTER YOUR TOKEN'
 BASE_URL='https://api.instagram.com/v1/'
 
         #----Function for getting user's own information----#
