@@ -1,4 +1,4 @@
-nltk==3.4
+nltk==3.4.5
 oauthlib==2.0.6
 Pillow==5.0.0
 pytz==2018.3
